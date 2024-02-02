@@ -1,5 +1,4 @@
-//
-
+[![Build status](https://ci.appveyor.com/api/projects/status/j1v6ic2j8if353d4?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ahj-geo-media-notification)
 
 https://evgeniypryanichnikov.github.io/ahj-geo-media-notification/
 ### Общая легенда
